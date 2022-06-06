@@ -1,0 +1,2 @@
+main-class: com.qwertovsky.helloworld.HelloWorld
+class-path: lib/calculator.jar 
